@@ -13,7 +13,7 @@ public class JavaPrimeNumber {
 		System.out.print("Enter the number: ");
 		int n=sc.nextInt();
 		JavaPrimeNumber jsc = new JavaPrimeNumber();
-		if(jsc.prime(n)) 
+		if(jsc.prime(n) && n>1) 
 			System.out.println("The number "+n+" is prime number.");
 		else 
 			System.out.println("The number "+n+" is not a prime number.");
