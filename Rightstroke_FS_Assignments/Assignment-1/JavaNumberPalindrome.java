@@ -23,3 +23,10 @@ public class JavaNumberPalindrome {
 	}
 
 }
+
+/*    OUTPUT OF THE PALINDROME NUMBER  */
+/***************************************/
+/*   Enter the number : 1221           */
+/*   The number 1221 is palindrome     */
+/***************************************/
+
