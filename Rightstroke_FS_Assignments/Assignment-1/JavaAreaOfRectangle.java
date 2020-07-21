@@ -13,3 +13,11 @@ public class JavaAreaOfRectangle {
 	}
 	
 }
+
+/*      OUTPUT OF THE AREA OF RECTANGLE          */
+/*************************************************/
+/*  Enter the length of the rectangle : 65       */
+/*  Enter the breadth of the rectangle : 2       */
+/*  The area of the rectangle : 130              */      
+/*************************************************/
+
