@@ -27,3 +27,10 @@ public class JavaAmstrongNumber {
 	}
 
 }
+
+/*     OUTPUT OF THE ARMSTRONG NUMBER  */
+/***************************************/
+/*   Enter the number : 153            */
+/*   The given number 153 is armstrong */
+/***************************************/
+
