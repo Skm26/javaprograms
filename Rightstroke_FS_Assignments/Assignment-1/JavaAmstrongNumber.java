@@ -20,9 +20,9 @@ public class JavaAmstrongNumber {
 		System.out.print("Enter the number : ");
 		int n = sc.nextInt();
 		if(jsc.isamstrong(n))
-			System.out.print("The given number "+n+" is amstrong");
+			System.out.print("The given number "+n+" is armstrong");
 		else
-			System.out.print("The given number "+n+" is not  amstrong");
+			System.out.print("The given number "+n+" is not  armstrong");
 		sc.close();
 	}
 
