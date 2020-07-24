@@ -36,7 +36,7 @@ public class JavaMatrixMultiplication {
 			 {
 				 int s=0;
 				 for(int k=0;k<cols;k++) 
-					 s+=arr1[i][k]+arr2[k][j];
+					 s+=arr1[i][k]*arr2[k][j];
 				 mul[i][j]=s;
 			 }
 		 }
